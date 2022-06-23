@@ -1,0 +1,24 @@
+.nav-bar{
+    
+    display: flex;
+    flex-direction: row;
+}
+.navbarSetting{
+    display: flex;
+    flex-direction: row;
+    flex:1;
+}
+
+.navIcons {
+    font-size:42;
+    }
+
+.navbarLeft{
+    flex:1;
+
+}
+
+.navbarRight{
+    flex:1;
+    
+}
